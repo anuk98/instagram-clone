@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/instaclone/static/css/main.5f8ff2f3.css",
+    "main.js": "/instaclone/static/js/main.247c6b7a.js",
+    "index.html": "/instaclone/index.html",
+    "main.5f8ff2f3.css.map": "/instaclone/static/css/main.5f8ff2f3.css.map",
+    "main.247c6b7a.js.map": "/instaclone/static/js/main.247c6b7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f8ff2f3.css",
+    "static/js/main.247c6b7a.js"
+  ]
+}
